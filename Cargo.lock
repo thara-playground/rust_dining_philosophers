@@ -1,0 +1,4 @@
+[root]
+name = "rust_dining_philosophers"
+version = "0.1.0"
+
